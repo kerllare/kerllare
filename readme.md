@@ -2,7 +2,8 @@
 
 ## Sou adestradora positiva de cães em transição de carreira para a tecnologia 
 
-No momento eu estou participando de um bootcamp da Reprograma, sobre análise de dados com Python. Antes, estava estudando lógica da programação com Javascript e também criei uma página usando HTML e CSS.
+No momento estou participando de um bootcamp de análise de dados com Python, na {Reprograma}.
+ 
 
  Entre em contato:
 <p align="left"><a href="https://www.linkedin.com/in/kerlla-regina-767489275/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerlla regina" height="30" width="40"/></a>
