@@ -21,6 +21,8 @@ No momento estou participando de um bootcamp de análise de dados com Python, na
     <a href="#" style="margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="80" alt="Ícone 5"></a>
     <a href="#" style="margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" width="80"
 alt="Ícone 6"></a>
+<a href="#" style="margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" alt="Ícone 7"></a>
+<a href="#" style="margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" alt="Ícone Python"></a>
 </div>
 
           
