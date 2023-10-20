@@ -10,6 +10,8 @@
 
 ## Tecnologias
 
+## Tecnologias
+
 <div style="display: flex; align-items: center;">
     <a href="#" style="margin-right: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git">
@@ -29,13 +31,10 @@
     <a href="#" style="margin-right: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" alt="Python">
     </a>
- <i class="devicon-numpy-original-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
-    <i class="devicon-pandas-original-wordmark" style="font-size: 40px;"></i>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="40" alt="Trello"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" width="40" alt="Slack"/>
-</div>
-    <i class="devicon-numpy-original-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
-    <i class="devicon-pandas-original-wordmark" style="font-size: 40px;"></i>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="40" alt="Trello"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" width="40" alt="Slack"/>
+    <a href="#" style="margin-right: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy">
+    </a>
+    <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
+    </a>
 </div>
