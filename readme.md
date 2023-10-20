@@ -29,12 +29,8 @@
     <a href="#" style="margin-right: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" alt="Python">
     </a>
-    <a href="#" style="margin-right: 10px;">
-        <i class="devicon-numpy-original-wordmark" style="font-size: 40px;" alt="NumPy"></i>
-    </a>
-    <a href="#" style="margin-right: 10px;">
-        <i class="devicon-pandas-original-wordmark" style="font-size: 40px;" alt="Pandas"></i>
-    </a>
+    <i class="devicon-numpy-original-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
+    <i class="devicon-pandas-original-wordmark" style="font-size: 40px;"></i>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="40" alt="Trello"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" width="40" alt="Slack"/>
 </div>
