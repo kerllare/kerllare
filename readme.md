@@ -10,8 +10,6 @@
 
 ## Tecnologias
 
-## Tecnologias
-
 <div style="display: flex; align-items: center;">
     <a href="#" style="margin-right: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git">
@@ -32,9 +30,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" alt="Python">
     </a>
     <a href="#" style="margin-right: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy">
     </a>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
+    <a href="#" style="margin-right: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas">
     </a>
 </div>
