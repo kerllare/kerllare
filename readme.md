@@ -1,6 +1,6 @@
 # Olá, me chamo Kerlla Regina
 
-## Estou dedicada a aprimorar minhas habilidades na graduação em Ciência de Dados. Mergulhando nos mundos da programação, estatísticas e inteligência artificial, busco integrar o conhecimento teórico à experiência prática em projetos. 
+## Estou dedicada a aprimorar minhas habilidades na graduação em Ciência de Dados. Mergulhando nos mundos da programação, estatísticas e inteligência artificial, busco integrar o conhecimento teórico à experiência prática. 
  
 
  Entre em contato:
