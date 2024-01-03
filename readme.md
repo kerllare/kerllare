@@ -8,7 +8,7 @@
 </p>
 
 
-## Tecnologias
+## Ferramentas e Tecnologias
 
 <div style="display: flex; align-items: center;">
     <a href="#" style="margin-right: 10px;">
