@@ -4,7 +4,7 @@
  
 
  Entre em contato:
-<p align="left"><a href="https://www.linkedin.com/in/kerlla-regina-767489275/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerlla regina" height="30" width="40"/></a>
+<p align="left"><a href="https://www.linkedin.com/in/kerlla-analista-de-dados" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerlla regina" height="30" width="40"/></a>
 </p>
 
 
