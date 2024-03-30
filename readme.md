@@ -5,7 +5,7 @@
 Mergulhando nos mundos da programação, estatística e inteligência artificial, busco integrar o conhecimento teórico à experiência prática.
 
 ### Entre em contato:
-[![Linkedin: kerlla-regina](https://img.shields.io/badge/-kerlla_regina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kerlla-analista-de-dados)](https://www.linkedin.com/in/kerlla-analista-de-dados)
+[![Linkedin: kerlla-santiago](https://img.shields.io/badge/-kerlla_regina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kerlla-analista-de-dados)](https://www.linkedin.com/in/kerlla-analista-de-dados)
 
 ## Ferramentas e Tecnologias
 
