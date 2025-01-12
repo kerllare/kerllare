@@ -5,7 +5,7 @@
 Explorando os campos de inteligência artificial, aprendizado de máquina (ML), modelos de linguagem natural (LLMs) e estatística, busco integrar conhecimento teórico à prática, resolvendo problemas reais e gerando impacto por meio de dados.
 
 ## Entre em contato:
-[LinkedIn](https://www.linkedin.com/in/kerlla-analista-de-dados/) | [Email](kerllaregina@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kerlla-analista-de-dados/) | [Email](kerllaregina@gmail.com)]
 
 ## Ferramentas e Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
