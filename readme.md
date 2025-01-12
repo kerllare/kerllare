@@ -1,29 +1,22 @@
 # Olá, me chamo Kerlla
 
-## Dedicada a aprimorar minhas habilidades na graduação em Ciência de Dados
+**Dedicada a aprimorar minhas habilidades na graduação em Ciência de Dados**
 
-Mergulhando nos mundos da programação, estatística e inteligência artificial, busco integrar o conhecimento teórico à experiência prática.
+Explorando os campos de inteligência artificial, aprendizado de máquina (ML), modelos de linguagem natural (LLMs) e estatística, busco integrar conhecimento teórico à prática, resolvendo problemas reais e gerando impacto por meio de dados.
 
-### Entre em contato:
-[![Linkedin: kerlla-santiago](https://img.shields.io/badge/-kerlla_santiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kerlla-analista-de-dados)](https://www.linkedin.com/in/kerlla-analista-de-dados)
+## Entre em contato:
+[Kerlla Regina Santiago](#)
 
 ## Ferramentas e Tecnologias
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=database&logoColor=white)
-![Cloud](https://img.shields.io/badge/-Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
-![Kanban](https://img.shields.io/badge/-Kanban-lightgrey?style=flat-square)
-![Canvas](https://img.shields.io/badge/-Canvas-3944F7?style=flat-square&logo=canvas&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=keras&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-4A90E2?style=for-the-badge&logo=openai&logoColor=white)
+![Estatística](https://img.shields.io/badge/Estatística-1D3557?style=for-the-badge&logo=r&logoColor=white)
+O que foi ajustado:
