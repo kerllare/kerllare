@@ -19,4 +19,4 @@ Explorando os campos de inteligência artificial, aprendizado de máquina (ML), 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=keras&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-4A90E2?style=for-the-badge&logo=openai&logoColor=white)
 ![Estatística](https://img.shields.io/badge/Estatística-1D3557?style=for-the-badge&logo=r&logoColor=white)
-O que foi ajustado:
+
