@@ -1,11 +1,11 @@
-# Olá, me chamo Kerlla
+# Hi, I’m Kerlla
 
-**Graduanda em Ciência de Dados**
+**Data Science undergraduate**
 
-## Entre em contato:
+## Let’s connect:
 [LinkedIn](https://www.linkedin.com/in/kerlla-santiago/) 
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
